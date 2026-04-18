@@ -1,0 +1,28 @@
+subjects:
+  - data engineering
+  - databases
+  - distributed systems
+  - machine learning
+  - algorithms
+
+MySql:
+  host: "localhost"
+  user: "root"
+  password: "***********"
+  database: "openlibrary_db"
+
+page_limit: 1
+
+API:
+  base: "https://openlibrary.org"
+  search_endpoint: "/search.json"
+
+  #  NEW ENDPOINTS 
+  author_details: "/authors/{author_key}.json"
+  author_works: "/authors/{author_key}/works.json"
+  work_details: "/works/{work_key}.json"
+
+paths:
+  bronze_path: "C:/Users/vadig/OneDrive/Documents/DE_project/project_10_openlibrary/data"
+  log_path: "data/logs/"
+  export_path: "data/exports/"

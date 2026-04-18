@@ -1,0 +1,21 @@
+2026-04-17 10:00:21,163 - INFO - pipeline started
+2026-04-17 10:00:21,163 - INFO - bronze layer started
+2026-04-17 10:00:21,164 - INFO - 
+Fetching Subject: data engineering
+2026-04-17 10:00:22,876 - INFO - 
+Fetching Subject: databases
+2026-04-17 10:00:24,537 - INFO - 
+Fetching Subject: distributed systems
+2026-04-17 10:00:26,077 - INFO - 
+Fetching Subject: machine learning
+2026-04-17 10:00:27,710 - INFO - 
+Fetching Subject: algorithms
+2026-04-17 10:00:29,353 - INFO - 
+Total Authors: 666
+2026-04-17 10:00:29,354 - INFO - Total Works: 456
+2026-04-17 10:11:48,748 - INFO - 
+ Bronze Layer Completed Successfully!
+2026-04-17 10:17:31,895 - INFO -  Extraction completed successfully
+2026-04-17 10:17:31,895 - INFO - STARTING SILVER_LAYER
+2026-04-17 10:17:31,895 - INFO - TRANSFORM COMPLETED SUCCESSFULLY
+2026-04-17 10:17:31,895 - INFO - pipeline completed successfully
